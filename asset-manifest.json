@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.25589869.chunk.css",
+    "main.js": "/static/js/main.03bd6a88.chunk.js",
+    "main.js.map": "/static/js/main.03bd6a88.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7918a0be.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7918a0be.js.map",
+    "static/css/2.f98a1de1.chunk.css": "/static/css/2.f98a1de1.chunk.css",
+    "static/js/2.cec83922.chunk.js": "/static/js/2.cec83922.chunk.js",
+    "static/js/2.cec83922.chunk.js.map": "/static/js/2.cec83922.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b93203c85570f03e23de4b5e8b6f0990.js": "/precache-manifest.b93203c85570f03e23de4b5e8b6f0990.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.f98a1de1.chunk.css.map": "/static/css/2.f98a1de1.chunk.css.map",
+    "static/css/main.25589869.chunk.css.map": "/static/css/main.25589869.chunk.css.map",
+    "static/js/2.cec83922.chunk.js.LICENSE.txt": "/static/js/2.cec83922.chunk.js.LICENSE.txt",
+    "static/media/gouwu.png": "/static/media/gouwu.423b7358.png",
+    "static/media/kefu.png": "/static/media/kefu.92a82db2.png",
+    "static/media/lunbo1.png": "/static/media/lunbo1.f185253f.png",
+    "static/media/lunbo2.png": "/static/media/lunbo2.c8a1b442.png",
+    "static/media/lunbo4.png": "/static/media/lunbo4.93badb24.png",
+    "static/media/lunbo7.png": "/static/media/lunbo7.fb46b6ec.png",
+    "static/media/Home.css": "/static/media/taobao.a517b05f.png",
+    "static/media/xingxing.png": "/static/media/xingxing.c4876f18.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7918a0be.js",
+    "static/css/2.f98a1de1.chunk.css",
+    "static/js/2.cec83922.chunk.js",
+    "static/css/main.25589869.chunk.css",
+    "static/js/main.03bd6a88.chunk.js"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "2188070",
+  "name": "淘宝",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "443628",
+      "name": "icon-wode",
+      "font_class": "iconwode",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "6031971",
+      "name": "icon_gouwuche",
+      "font_class": "icon_gouwuche",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "6216006",
+      "name": "收 藏",
+      "font_class": "star-opp",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "13123466",
+      "name": "icon-dingdan",
+      "font_class": "icon-dingdan",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "15959524",
+      "name": "icon-icon4",
+      "font_class": "icon-icon4",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "16425186",
+      "name": "Homehomepagemenu",
+      "font_class": "Homehomepagemenu",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "17446806",
+      "name": "淘宝",
+      "font_class": "taobao",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    }
+  ]
+}
